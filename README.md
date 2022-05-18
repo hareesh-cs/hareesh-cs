@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hareesh-cs
 - 👀 I’m interested in Data science, Machine Learning
-- 🌱 I’m currently learning Full Stack development
 - 📫 How to reach me hareeshsikakollu@gamil.com
 
 <!---
